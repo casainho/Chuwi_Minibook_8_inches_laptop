@@ -1,13 +1,14 @@
-[<img src='chuwi_minibook-01.png' width=300 class="center">](chuwi_minibook-01.png)
+[<img src='chuwi_minibook-01.png' width=300>](chuwi_minibook-01.png)
 
 [CHUWI MiniBook 8.0 inchs](https://www.chuwi.com/pt/product/items/Chuwi-MiniBook.html) is a mini laptop. I bought mine in 2023 and this version has a X86 Intel Celeron J4125 processor, 6ĜB RAM and 128GB SSD disk.
 
 **What I like**
 
-* screen quality: good
-* touch screen: good
+* build quality: very good
+* screen quality: very good
+* touch screen: very good
 * keyboard keys size: good
-* keyboard with backlight: good to have but not possible to control the intensity
+* keyboard with backlight
 * Optical Finger: while far from perfect, it works ok
 * compact size
 
@@ -19,7 +20,7 @@
 
 # Improving fan noise
 
-I did open my Chuwi Minibook. A picture of the fan connector, near a rule with 1mm scale, so, I would say the pitch of this connector is about 0.875mm (4 wires in 3 5mm). Anyone can find the reference of this type of connector?
+I did open my Chuwi Minibook. A picture of the fan connector, near a rule with 1mm scale, so, I would say the pitch of this connector is about 0.875mm (4 wires in 3.5mm). Anyone can find the reference of this type of connector?
 <br>[<img src='fan_connector.jpeg' width=300>](fan_connector.jpeg)
 
 And a detail of the fan. Most probably the best option is to remove and solder here the wires, even because we can buy a spare fan in the case we damage the original:
