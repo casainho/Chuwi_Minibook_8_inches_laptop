@@ -4,6 +4,7 @@
 
 **What I like**
 
+* good price: 320
 * build quality: very good
 * screen quality: very good
 * touch screen: very good
@@ -31,3 +32,15 @@ And I tested a RPI2040 very small board that is programmed using the USB-C conne
 <br>[<img src='inside_with_small_board.jpeg' width=300>](inside_with_small_board.jpeg)
 
 But for now, I just did as other user did -- **I just left the fan unconnected!!** and the Minibook boots and runs as if there is no issue at all. Maybe the system firmware do not force the fan to run, maybe it is ready for a fanless system. And as the other user wrote, if the Minibook get's hot, it will probably protect itself by reducing the system clock, making the system slow but keep the temperature at safe levels.
+
+# Tweaks
+
+I am using Linux Ubuntu 22.10.
+
+## Write accents in english keyboard
+
+I configured the ComposeKey to be the Pause key of the keyboard. For instance, this way I click PAUSE, ',' and 'c' to get the 'ç'.
+
+## € instead of dollar
+
+[See here how to remap the SHIFT + 4 to write the € instead of dollar](https://askubuntu.com/questions/367384/how-do-i-enter-the-euro-symbol).
